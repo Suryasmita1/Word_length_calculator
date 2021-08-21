@@ -1,0 +1,39 @@
+body {
+    background-color: cornflowerblue;
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -15em;
+    text-align: center;
+}
+input {
+    width: 100%;
+    height: 15%;
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+#btn {
+    margin-top: 100px;
+    width : 30%;
+    height: 15%;
+    background-color: darkblue;
+    color:lightblue;
+}
+#output {
+    border : black;
+    display: flex;
+    margin-top: 50px;
+    background-color: crimson;
+    height: 15%;
+    width: 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    align-items: center;
+}
